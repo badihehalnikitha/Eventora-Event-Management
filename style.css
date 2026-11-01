@@ -68,7 +68,7 @@ nav{
 
 .hero{
     background: linear-gradient(rgba(97, 105, 113, 0.6), rgba(97, 105, 113, 0.6)),
-                url('main1.jpg.jpeg');
+                url('Frontend/main1.jpg.jpeg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
